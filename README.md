@@ -10,10 +10,10 @@ This project is an `Multilingual-translation-Summarization` that allows users to
 `Translation`: Translates the transcribed text into various target languages.<br/>
 `Summarization`: Summarizes the transcribed text to extract key information.<br/>
 #### Technologies Used<br/>
-Streamlit: Web framework for the user interface.<br/>
-Whisper: Model for transcription and language detection.<br/>
-Langdetect: Library for detecting the language of the text.<br/>
-Supporting Libraries: For translation and summarization.<br/>
+**Streamlit**: Web framework for the user interface.<br/>
+**Whisper**: Model for transcription and language detection.<br/>
+**Langdetect**: Library for detecting the language of the text.<br/>
+**Supporting Libraries**: For translation and summarization.<br/>
 #### Installation<br/>
 Clone the repository:<br/>
 bash<br/>
