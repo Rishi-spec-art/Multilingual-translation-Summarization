@@ -42,6 +42,8 @@ streamlit run GUI.py<br/><br/>
 #### Project Structure<br/>
 GUI.py: The main file for the Streamlit application.<br/>
 spc_2_txt.py: Contains the Model class for transcription and language detection.<br/>
+summary.py: Contains the Summarize class for summarization of input text<br/>
+translate.py: Contains the Translate class for translation and language detection of the input text<br/>
 requirements.txt: Lists the dependencies required for the project.<br/>
 Contributing<br/>
 Contributions are welcome! Please open an issue or submit a pull request with your improvements.<br/>
