@@ -33,14 +33,11 @@ Usage<br/>
 
 bash<br/>
 Copy code<br/>
-streamlit run GUI.py<br/>
-Upload an Audio File: Click on the "Upload an audio file" button and select an MP3 file from your device.<br/>
-
-Transcribe the Audio: Click the "Transcribe" button to convert the audio content to text.<br/>
-
-Translate the Text: Select a target language from the dropdown list and click the "Translate" button to translate the text.<br/>
-
-Summarize the Text: Click the "Summarize" button to generate a summary of the transcribed text.<br/>
+streamlit run GUI.py<br/><br/>
+`Upload an Audio File`: Click on the "Upload an audio file" button and select an MP3 file from your device.<br/>
+`Transcribe the Audio`: Click the "Transcribe" button to convert the audio content to text.<br/>
+`Translate the Text`: Select a target language from the dropdown list and click the "Translate" button to translate the text.<br/>
+`Summarize the Text`: Click the "Summarize" button to generate a summary of the transcribed text.<br/>
 
 #### Project Structure<br/>
 GUI.py: The main file for the Streamlit application.<br/>
